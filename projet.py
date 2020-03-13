@@ -16,5 +16,3 @@ if reponse[0] == lettre:
 else:
     print("c'est faux")
 print(score)
-
-test
